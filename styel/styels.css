@@ -1,0 +1,126 @@
+.fira-sans-thin {
+  font-family: "Fira Sans", serif;
+  font-style: normal;
+}
+.banner {
+  display: flex;
+  align-items: center;
+  background-color: #C6E4D6;
+  margin: auto;
+  border-radius: 10px;
+  justify-content: space-between;
+}
+.banner-list {
+  list-style-type: none;
+
+}
+.banner-button {
+  background-color: #006A50;
+  padding:20px 10px;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+
+}
+.banner-title{
+  font-size: 26px;
+  font-weight: 400;
+  color: #0E0E0E;
+}
+.banner-taxt{
+  font-size: 56px;
+  font-weight: 700;
+  color: #0E0E0E;
+}
+
+.digital-icon{
+  display: flex;
+  align-items: center;
+  margin: auto;
+  justify-content:space-between;
+  
+}
+.the-vision{
+  font-size: 40px;
+  font-weight: 700;
+}
+.digital-tra{
+  background-color: #5490F5;
+  padding: auto;
+  border-radius: 7px;
+}
+.green-energy{
+  background-color: #C6E4D6;
+  padding: auto;
+  border-radius: 7px;
+}
+.modern-inf{
+  background-color: #F7EBCF;
+  padding: auto;
+  border-radius: 7px;
+}
+.learn-tra{
+  background-color: #5490F5;
+  padding: auto;
+  border-radius: 8px;
+  color: white;
+  
+}
+
+.learn-mor{
+  background-color: #09A15C;
+  padding: auto;
+  border-radius: 8px;
+  color: white;
+}
+.learn-inf{
+  background-color: #FFC239;
+  border-radius: 8px;
+  color: white;
+  padding: auto;
+}
+.re-ne{
+  font-size: 40px;
+  font-weight: 700;
+}
+.ban-ai{
+  font-size: 16px;
+}
+.bangla-lan{
+  display: flex;
+}
+.bangla-laun{
+  display: flex;
+}
+.bangla-new{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.bangla-pic{
+  padding: 30px 20px;
+  border-radius: 10px;
+}
+.bangla-button{
+  color: white;
+  background-color: #006A50;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 8px;
+}
+.list-item{
+  list-style-type: none;
+}
+.list-bangla{
+list-style-type: none;
+}
+.donate-today{
+  /* display: flex; */
+  justify-content:center;
+}
+.place-holder{
+  /* align-items: center; */
+}
+.donet-taka{
+  /* align-items: center; */
+}
